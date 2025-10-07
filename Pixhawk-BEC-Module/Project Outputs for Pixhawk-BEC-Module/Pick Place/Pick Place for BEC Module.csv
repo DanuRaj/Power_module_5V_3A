@@ -1,0 +1,34 @@
+Altium Designer Pick and Place Locations
+E:\QRBOTS\PCB Projects\BEC Module\Pixhawk-BEC-Module\Project Outputs for Pixhawk-BEC-Module\Pick Place\Pick Place for PCB1.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       03/10/25
+Time:       16:49
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"J1","SM06B-GHS-TB","BottomLayer","CONN_SM06B-GHS-TB_JST","16.6153","14.4780","270","Connector Header Surface Mount, Right Angle 6 position 0.049" (1.25mm)"
+"U2","MP1593DN-LF-Z","TopLayer","SOIC8E_MNP","3.4290","13.9002","90","3A 28V 385KHz Step-Down Converter"
+"U1","INA139NA/250","BottomLayer","DBV0005A_N","9.5860","16.6590","90","2.7 to 36V, 440kHz Variable gain current sense amplifier 5-SOT-23 -40 to 125"
+"R7","RK73H1ETTP7501F","TopLayer","RES_0402","4.4704","18.9230","0","Res Thick Film 0402 7.5K Ohm 1% 0.1W(1/10W) ±100ppm/C Pad SMD Automotive T/R"
+"R6","CRGP0402F10K","TopLayer","RES_0402","6.7310","16.2814","270","Res Thick Film 0402 10K Ohm 1% 0.125W(1/8W) ±100ppm/C Pad SMD T/R Automotive AEC-Q200"
+"R5","CRGP0402F33K","TopLayer","RES_0402","6.7310","17.9070","270","Res Thick Film 0402 33K Ohm 1% 0.125W(1/8W) ±100ppm/C Pad SMD T/R Automotive AEC-Q200"
+"R4","ERJ-2GEJ104X","BottomLayer","RES_0402","11.8110","14.3510","270","Res Thick Film 0402 100K Ohm 5% 0.1W(1/10W) +/-200ppm/ßC SMD Automotive T/R"
+"R3","ERJ-2GEJ152X","BottomLayer","RES_0402","12.2174","17.0180","180","Res Thick Film 0402 1.5K Ohm 5% 0.1W(1/10W) +/-200ppm/ßC SMD Automotive T/R"
+"R2","ERJ-2RKF1372X","BottomLayer","RES_0402","12.2174","17.7800","0","Res Thick Film 0402 13.7K Ohm 1% 0.1W ±100ppm/°C Molded SMD Punched Carrier T/R"
+"R1","PA2512FKE7T0U5E","BottomLayer","RES_PA2512_YAG-L","9.5377","21.8440","180","500 µOhms ±1% 3W Chip Resistor 2512 (6332 Metric) Anti-Sulfur, Automotive AEC-Q200, Current Sense, Moisture Resistant Metal Element"
+"L1","SRR1260-150M","TopLayer","IND_BOURNS_SRR1260","13.0810","6.8580","180","15 µH Shielded Drum Core, Wirewound Inductor 5 A 27mOhm Max Nonstandard"
+"D1","SS34","TopLayer","SMB_ONS","3.2766","6.8580","180","Diode 40 V 3A Surface Mount DO-214AB (SMC)"
+"C9","C0402C103K5RACTU","TopLayer","CAP_0402","4.4704","18.0340","180","Multilayer Ceramic Capacitors MLCC - SMD/SMT 50V 0.01uF X7R 0402 10%"
+"C8","CC0402KRX7R9BB104","TopLayer","CAP_0402","1.9304","18.0340","180","50V 100nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+"C7","GRM32ER71E226ME15L","TopLayer","CAP_1210","16.6370","15.2400","0","22 µF ±20% 25V Ceramic Capacitor X7R 1210 (3225 Metric)"
+"C6","GRM32ER71E226ME15L","TopLayer","CAP_1210","16.6370","18.5420","0","22 µF ±20% 25V Ceramic Capacitor X7R 1210 (3225 Metric)"
+"C5","CC1210KKX7R9BB106","BottomLayer","CAP_1210","4.6736","14.9860","180","50V 10uF X7R ±10% 1210 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+"C4","CC1210KKX7R9BB106","BottomLayer","CAP_1210","4.6736","11.6840","0","50V 10uF X7R ±10% 1210 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+"C3","C0402C103K5RACTU","TopLayer","CAP_0402","3.6830","9.3980","0","Multilayer Ceramic Capacitors MLCC - SMD/SMT 50V 0.01uF X7R 0402 10%"
+"C2","CC0402KRX7R9BB104","BottomLayer","CAP_0402","12.7000","14.3510","90","50V 100nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+"C1","CC0402KRX7R9BB104","BottomLayer","CAP_0402","12.2174","16.1290","0","50V 100nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
