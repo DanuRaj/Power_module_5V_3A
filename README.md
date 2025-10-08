@@ -19,7 +19,6 @@ current draw and send this analog data to the flight controller.
 
 ## Top and bottom images
 <p align="left">
-<img width="472" height="521" alt="image" src="https://github.com/user-attachments/assets/e2bd98ed-9d02-4584-b27f-9fb1a429661d" />
-<img width="477" height="521" alt="image" src="https://github.com/user-attachments/assets/49a97b19-3f2b-4ac1-b342-590123e3fe43" />
-
+<img width="442" height="521" alt="image" src="https://github.com/user-attachments/assets/e2bd98ed-9d02-4584-b27f-9fb1a429661d" />
+<img width="447" height="521" alt="image" src="https://github.com/user-attachments/assets/49a97b19-3f2b-4ac1-b342-590123e3fe43" />
 </p>
