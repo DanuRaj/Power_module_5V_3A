@@ -1,0 +1,13 @@
+Added Component: Designator=J1(CONN_SM06B-GHS-TB_JST)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SM06B-GHS-TB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V_OUT Pin=J1-1
+Added Pin To Net: NetName=5V_OUT Pin=J1-2
+Added Pin To Net: NetName=V_Aout Pin=J1-3
+Added Pin To Net: NetName=C_Aout Pin=J1-4
+Added Pin To Net: NetName=GND Pin=J1-5
+Added Pin To Net: NetName=GND Pin=J1-6
+Added Member To Class: ClassName=Sheet1 Member=Component J1 SM06B-GHS-TB
