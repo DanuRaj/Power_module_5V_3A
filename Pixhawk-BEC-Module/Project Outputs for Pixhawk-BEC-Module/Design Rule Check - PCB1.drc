@@ -1,9 +1,9 @@
 Protel Design System Design Rule Check
 PCB File : E:\QRBOTS\PCB Projects\Power_module_5V_3A\Pixhawk-BEC-Module\PCB1.PcbDoc
-Date     : 10/8/2025
-Time     : 11:51:00 AM
+Date     : 10/28/2025
+Time     : 4:10:15 PM
 
-Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
+Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
 Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
@@ -15,43 +15,43 @@ Rule Violations :0
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=6mil) (Max=40mil) (Preferred=10mil) (All)
+Processing Rule : Width Constraint (Min=0.152mm) (Max=1.016mm) (Preferred=0.254mm) (All)
 Rule Violations :0
 
 Processing Rule : Routing Topology Rule(Topology=Shortest) (All)
 Rule Violations :0
 
-Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
 Rule Violations :0
 
-Processing Rule : Minimum Annular Ring (Minimum=6mil) (All)
+Processing Rule : Minimum Annular Ring (Minimum=0.152mm) (All)
 Rule Violations :0
 
-Processing Rule : Hole Size Constraint (Min=6mil) (Max=100mil) (All)
+Processing Rule : Hole Size Constraint (Min=0.152mm) (Max=2.54mm) (All)
 Rule Violations :0
 
-Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
 Rule Violations :0
 
-Processing Rule : Minimum Solder Mask Sliver (Gap=4mil) (All),(All)
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.102mm) (All),(All)
 Rule Violations :0
 
-Processing Rule : Silk To Solder Mask (Clearance=4mil) (IsPad),(All)
+Processing Rule : Silk To Solder Mask (Clearance=0.102mm) (IsPad),(All)
 Rule Violations :0
 
-Processing Rule : Silk to Silk (Clearance=6mil) (All),(All)
+Processing Rule : Silk to Silk (Clearance=0.152mm) (All),(All)
 Rule Violations :0
 
-Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
 Rule Violations :0
 
-Processing Rule : Board Clearance Constraint (Gap=0mil) (All)
+Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
 Rule Violations :0
 
-Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
 Rule Violations :0
 
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:00
